@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bilge Uyar</h1>
-- 📝 I regularly write articles on [https://medium.com/@bilgeuyar](https://medium.com/@bilgeuyar)
-
 - 📫 How to reach me **bilgeeuyar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
